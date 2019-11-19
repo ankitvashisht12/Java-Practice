@@ -23,10 +23,11 @@ This Repo Contains Java Practice and Examples.
   - Definition and Declaration
   - Parameters  & Arguments
   - Method Overloading
-
 - [ ] Java Classes
 - [ ] Java File Handling
 - [ ] Java Gui
 - [ ] Java Networking
 - [ ] JDBC
 - [ ] Java Advance
+
+![Completed W3School Exercises](https://github.com/ankitvashisht12/Java-Practice/blob/master/Images/Java_Exercise_Result.png)
